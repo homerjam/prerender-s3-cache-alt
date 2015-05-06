@@ -1,6 +1,6 @@
 {
   "name": "prerender-s3-cache-alt",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Prerender plugin for AWS S3 caching - optimised for human readability",
   "main": "index.js",
   "scripts": {

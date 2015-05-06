@@ -18,4 +18,6 @@ Then in the server.js that initializes the prerender:
 Configuration
 -------------
 
-Follow the instructions for the default S3 plugin
+Follow the instructions for the default S3 plugin.
+
+Remember to attach `AmazonS3FullAccess` policy to IAM user.
