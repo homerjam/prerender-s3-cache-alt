@@ -1,6 +1,6 @@
 {
   "name": "prerender-s3-cache-alt",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Prerender plugin for AWS S3 caching - optimised for human readability",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/homerjam/prerender-s3-cache-alt",
   "dependencies": {
-    "aws-sdk": "~2.1.26",
-    "cache-manager": "0.19.0"
+    "aws-sdk": "^2.22.0",
+    "cache-manager": "^2.4.0"
   }
 }
